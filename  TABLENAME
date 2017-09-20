@@ -1,0 +1,8 @@
+13.0
+6
+0  SQLCHAR  04  "\r\n"  0  COLUMN_NAME  SQL_Latin1_General_CP1_CI_AS
+1  SQLCHAR  09  "\r\n"  1  COLUMN_NAME2  SQL_Latin1_General_CP1_CI_AS
+2  SQLCHAR  04  "\r\n"  2  COLUMN_NAME3  SQL_Latin1_General_CP1_CI_AS
+3  SQLCHAR  01  "\r\n"  3  COLUMN_NAME4  SQL_Latin1_General_CP1_CI_AS
+4  SQLDECIMAL  011  "\r\n"  4  COLUMN_NAME5  SQL_Latin1_General_CP1_CI_AS
+5  SQLCHAR  07  "\r\n"  5  COLUMN_NAME6  SQL_Latin1_General_CP1_CI_AS
